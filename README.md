@@ -129,7 +129,6 @@ curl -u username:password http://localhost:8080/protected.html
 ```
 
 ## Clean Up
-
 To clean up the project (remove object files and the compiled binary), use:
 
 ```bash
