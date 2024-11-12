@@ -147,12 +147,3 @@ make rebuild
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify the content and add more specific details according to your server implementation and project requirements!
-```
-
----
-
-This `README.md` is now ready to be copied and pasted into your project directory. It provides clear setup instructions, usage details, and descriptions of the key features and components of your web server.
