@@ -1,6 +1,4 @@
-Here's the full `README.md` content in a format you can directly copy and paste into your `README.md` file:
 
-```markdown
 # Web Server Project
 
 This is a simple multi-threaded web server written in C. It uses **pthreads** for handling multiple client connections concurrently, supports various HTTP methods (GET, POST, PUT, DELETE), serves static files, and includes logging and basic authentication mechanisms.
